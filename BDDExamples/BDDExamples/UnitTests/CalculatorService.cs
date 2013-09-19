@@ -55,7 +55,7 @@ namespace BDDExamples.UnitTests
         }
     }
 
-    public class and_multiplying_65_by_77 : when_working_with_the_calculator_service
+    public class and_multiplying_23_by_89 : when_working_with_the_calculator_service
     {
         private int _resultShouldBe = 5005;
         private int _actualResult = 0;
